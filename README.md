@@ -48,7 +48,7 @@ npm test
 
 GitHub Pages → *Settings → Pages → Deploy from branch* → `main`, cartella `/`. Il file `.nojekyll` evita che Jekyll elabori il sito.
 
-Il sito è pubblicato su `https://paguro-atomico.github.io/gravel-finder/`. Se in futuro colleghi un dominio personalizzato, aggiungi un file `CNAME` nella root.
+Il sito è pubblicato su `https://paguro-atomico.github.io/bike-finder/`. Se in futuro colleghi un dominio personalizzato, aggiungi un file `CNAME` nella root.
 
 ## Prossimi passi
 
