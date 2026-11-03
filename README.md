@@ -48,7 +48,7 @@ npm test
 
 GitHub Pages → *Settings → Pages → Deploy from branch* → `main`, cartella `/`. Il file `.nojekyll` evita che Jekyll elabori il sito.
 
-Il repository si chiama `cycling-tool.github.io` ma appartiene all'utente `paguro-atomico`, quindi il sito sarà su `https://paguro-atomico.github.io/cycling-tool.github.io/`. Per un URL più pulito si può rinominare il repo (es. `gravel-finder`) o collegare un dominio personalizzato.
+Il sito è pubblicato su `https://paguro-atomico.github.io/gravel-finder/`. Se in futuro colleghi un dominio personalizzato, aggiungi un file `CNAME` nella root.
 
 ## Prossimi passi
 
