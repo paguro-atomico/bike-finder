@@ -1,0 +1,10 @@
+{
+  "name": "gravel-bike-finder",
+  "private": true,
+  "type": "module",
+  "description": "Static gravel bike recommendation tool (GitHub Pages). No build step.",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "start": "python3 -m http.server 8000"
+  }
+}
